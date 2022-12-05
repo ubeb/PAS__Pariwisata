@@ -300,6 +300,7 @@ class _MyWidgetState extends State<home> {
             ],
           ),
         ),
+        
         SizedBox(
           height: 15,
         ),
